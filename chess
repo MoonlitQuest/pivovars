@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta cherset="UFT-8"><meta cherset="UFT-8">
+<title>мій сайт </title>
+</head›
+<body> 
+ <div class="data"> 
+ <ul>
+ <li>Заголовок </li>
+ <li>чемпіони світу по шахмата </li>
+ <li>фото </li>
+ </ul>
+ </div>
+ </body>
+ </html>
