@@ -1,9 +1,13 @@
 <!DOCTYPE html>
-<html lang="ua">
+<html lang="uk">
 <head>
-    <title> HTML</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мійсайт</title>
 </head>
 <body>
-    <h1>Привіт, світ!</h1>
+    <h1>Привіт<h1>
+	<a href="https://www.google.com/imgres?q=%D1%87%D1%83%D0%B3%D1%83%D0%BD%20%D0%BC%D0%B5%D0%BC&imgurl=https%3A%2F%2Fmemozg.ru%2Fimg%2Fposts%2F4241_65bfda0d4f597.webp&imgrefurl=https%3A%2F%2Fmemozg.ru%2Fpost%2F119926&docid=2tKWdYXBktRasM&tbnid=Zhpj4NDjwvoW4M&vet=12ahUKEwiW0K2gpLaMAxV4U1UIHSb2KnUQM3oECGkQAA..i&w=900&h=890&hcb=2&ved=2ahUKEwiW0K2gpLaMAxV4U1UIHSb2KnUQM3oECGkQAA" </a> 
+    <p>Перевір себе </p>
 </body>
 </html>
